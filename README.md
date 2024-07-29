@@ -13,3 +13,4 @@ Independent Labs/labs/module_2/SQLLIte/jupyter-labs-eda-sql-coursera_sqllite.ipy
 Independent Labs/module_2/edadataviz.ipynb 
 Independent Labs/module_3/lab_jupyter_launch_site_location.ipynb
 Independent Labs/module_4/SpaceX_Machine Learning Prediction_Part_5.ipynb
+
